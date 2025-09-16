@@ -1,4 +1,5 @@
 service mtk.plpath.utils.link /system/bin/mtk_plpath_utils
+    class none
     user root
     group root system
     disabled

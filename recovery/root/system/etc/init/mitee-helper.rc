@@ -1,5 +1,5 @@
 service mitee-helper /system/bin/mitee_helper
-	class core
+	class none
 	user root
 	group root
 	oneshot
