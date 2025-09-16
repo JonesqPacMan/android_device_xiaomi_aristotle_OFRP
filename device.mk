@@ -129,12 +129,6 @@ PRODUCT_PACKAGES += \
     android.hardware.keymaster@4.0 \
     android.hardware.keymaster@3.0
 
-# Keymint
-PRODUCT_PACKAGES += \
-    android.hardware.security.keymint-V1-ndk_platform \
-    android.hardware.security.secureclock-V1-ndk_platform \
-    android.hardware.security.sharedsecret-V1-ndk_platform
-
 # Mtk plpath utils
 PRODUCT_PACKAGES += \
     mtk_plpath_utils \
